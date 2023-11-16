@@ -101,9 +101,6 @@
                     <item id="oslicence_id">
                       <rank>50</rank>
                     </item>
-                    <item id="cpu">
-                      <rank>60</rank>
-                    </item>
                     <item id="ram">
                       <rank>70</rank>
                     </item>
